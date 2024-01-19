@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Guddu/PycharmProjects/chest_cancer_mlops/mlruns/0/773cad93c64741fb8ecae6f9a0cff7b8/artifacts
+end_time: 1705656198702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 773cad93c64741fb8ecae6f9a0cff7b8
+run_name: bold-zebra-826
+run_uuid: 773cad93c64741fb8ecae6f9a0cff7b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705656188885
+status: 3
+tags: []
+user_id: Guddu

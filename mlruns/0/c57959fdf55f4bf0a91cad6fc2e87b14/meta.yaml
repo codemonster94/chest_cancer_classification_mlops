@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Guddu/PycharmProjects/chest_cancer_mlops/mlruns/0/c57959fdf55f4bf0a91cad6fc2e87b14/artifacts
+end_time: 1705657242547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c57959fdf55f4bf0a91cad6fc2e87b14
+run_name: secretive-cub-240
+run_uuid: c57959fdf55f4bf0a91cad6fc2e87b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705657234393
+status: 3
+tags: []
+user_id: Guddu
