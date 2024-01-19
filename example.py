@@ -70,6 +70,8 @@ if __name__ == "__main__":
         mlflow.log_metric("r2", r2)
         mlflow.log_metric("mae", mae)
 
+
+        remote_server_uri="https://dagshub.com/vwcontest94/chest_cancer_mlops.mlflow"
         tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
 
         # Model registry does not work with file store
